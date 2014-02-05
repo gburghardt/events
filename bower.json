@@ -1,5 +1,5 @@
 {
-	"name": "Beacon",
+	"name": "Events",
 	"description": "Beacon provides JavaScript with a general purpose application event framework for global application events as well as notifications targeting only certain objects.",
 	"authors": [
 		"Greg Burghardt <greg_burghardt@yahoo.com>"
@@ -7,7 +7,7 @@
 	"homepage": "https://github.com/gburghardt/beacon",
 	"license": "MIT",
 	"version": "1.0.0",
-	"repository": { "type": "git", "url": "https://github.com/gburghardt/beacon.git" },
+	"repository": { "type": "git", "url": "https://github.com/gburghardt/events.git" },
 	"main": [
 		"lib/beacon.js",
 		"lib/beacon/application_events.js",
